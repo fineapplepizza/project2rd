@@ -1,0 +1,128 @@
+이름,친화성,털빠짐,집지키기,실내외구분,운동량
+프렌치 불도그 [French Bulldog],m,h,f,io,m
+풍산개 [Poongsan Dog],l,m,h,o,m
+풀리 [Puli],m,l,h,o,h
+포인터 [Pointer],h,m,f,o,h
+포메라니안 [Pomeranian],m,m,h,i,m
+페키니즈 [Pekingese],m,m,m,i,l
+퍼그 [Pug],m,h,m,i,m
+파피용 [Papillon],h,m,f,i,m
+티벳탄 테리어 [Tibetan Terrier],h,h,h,io,h
+티벳탄 스파니엘 [Tibetan Spaniel],m,h,f,io,l
+티벳탄 마스티프 [Tibetan Mastiff],l,h,h,o,h
+토이 푸들 [Toy Poodle],h,l,m,i,m
+토이 맨체스터 테리어 [Toy Manchester Terrier],l,m,m,i,m
+클럼버 스파니엘 [Clumber Spaniel],m,h,m,o,m
+쿠바츠 [Kuvasz],l,m,h,o,h
+콜리 [Collie],m,h,h,o,h
+코카시안 오브차카 [Caucasian Ovtcharka],l,m,h,o,h
+코몬돌 [Komondor],m,l,h,o,m
+케언 테리어 [Cairn Terrier],m,m,m,io,h
+케리 블루 테리어 [Kerry Blue Terrier],m,l,h,o,m
+컬리 코티드 리트리버 [Curly Coated Retriever],m,l,m,o,h
+카바리에 킹 찰스 스파니엘 [Cavalier King Charles Spaniel],h,m,f,i,m
+치와와 [Chihuahua],m,m,h,i,l
+체사피크 베이 리트리버 [Chesapeake Bay Retriever],h,m,m,o,h
+차이니즈 크레스티드 [Chinese Crested],m,l,f,i,l
+차이니즈 샤페이 [Chinese Shar-pei],l,m,m,o,m
+차우차우 [Chowchow],l,h,h,o,h
+진돗개 [Jindo Dog],l,m,h,o,m
+제페니스 친 [Japanese Chin],m,m,f,i,l
+제페니스 스피츠 [Japanese Spitz],m,h,h,io,m
+저먼 와이어헤어드 포인터 [German Wirehaired Pointer],m,m,m,o,h
+저먼 쇼트헤어드 포인터 [German Shorthaired Pointer],m,l,f,o,h
+저먼 셰퍼드 도그 [German Shepherd Dog],m,h,h,o,h
+잭 러셀 테리어 [Jack Russel Terrier],m,m,m,io,h
+자이언트 슈나우저 [Giant Schnauzer],m,m,m,o,h
+잉글리시 코카 스파니엘 [English Cocker Spaniel],h,h,m,io,m
+잉글리시 스프링거 스파니엘 [English Springer Spaniel],h,m,m,o,h
+잉글리시 세터 [English Setter],h,h,f,o,h
+이탈리안 그레이하운드 [Italian Greyhound],h,m,f,i,h
+웰시 테리어 [Welsh Terrier],h,h,h,io,h
+웰시 코기 [Welsh Corgi],m,h,m,io,h
+웨스트 하이랜드 화이트 테리어 [West Highland White Terrier],h,m,h,io,h
+요크셔 테리어 [Yorkshire Terrier],h,m,h,i,m
+와이어헤어드 포인팅 그리폰 [Wirehaired Pointing Griffon],m,m,m,o,h
+와이마라너 [Weimaraner],l,m,m,o,h
+올드 잉글리시 쉽독 [Old English Sheepdog],h,h,f,o,h
+오스트레일리안 테리어 [Australian Terrier],m,m,h,io,h
+에어데일 테리어 [Airedale Terrier],m,l,h,o,h
+알래스칸 맬러뮤트 [Alaskan Malamute],m,h,h,o,h
+아프간 하운드 [Afghan Hound],l,h,f,o,h
+아펜핀셔 [Affenpinscher],l,m,h,i,m
+아키타 [Akita],l,h,h,o,h
+아이리쉬 테리어 [Irish Terrier],h,m,h,o,h
+아이리쉬 워터 스파니엘 [Irish Water Spaniel],m,l,m,o,h
+아이리쉬 울프하운드 [Irish Wolfhound],m,l,m,o,h
+아이리쉬 세터 [Irish Setter],h,h,f,o,h
+아메리칸 코카 스파니엘 [American Cocker Spaniel],h,m,m,io,h
+실키 테리어 [Silky Terrier],l,m,h,i,m
+실리함 테리어 [Sealyham Terrier],l,l,m,io,m
+시츄 [Shih Tzu],h,m,f,i,m
+시베리안 허스키 [Siberian Husky],m,h,f,o,h
+시바 이누 [Shiba Inu],l,m,h,o,m
+스탠더드 푸들 [Standard Poodle],m,l,m,o,m
+스타포드셔 불 테리어 [Staffordshire Bull Terrier],m,m,h,o,h
+스코티시 테리어 [Scottish Terrier],l,l,h,io,m
+스카이 테리어 [Sky Terrier],l,m,h,o,m
+소프트 코티드 휘튼 테리어 [Soft-Coated Wheaten Terrier],m,m,m,o,h
+셰틀랜드 쉽독 [Shetland Sheepdog],m,h,m,o,m
+세인트 버나드 [Saint Bernard],m,m,h,o,m
+서섹스 스파니엘 [Sussex Spaniel],m,m,m,o,h
+삽살개 [Sapsaree],m,m,h,o,m
+살루키 [Saluki],l,m,f,o,h
+사우스 러시안 오브차카 [South Russian Ovtcharka],l,h,h,o,h
+사모예드 [Samoyed],h,h,f,o,h
+비즐라 [Vizsla],h,m,m,o,h
+비어디드 콜리 [Bearded Collie],h,h,m,o,h
+비숑 프리제 [Bichon Frise],h,l,f,io,m
+비글 [Beagle],m,l,m,o,h
+블러드 하운드 [Bloodhound],m,m,m,o,h
+브리타니 [Brittany],m,m,m,o,h
+브리아드 [Briard],m,h,m,o,h
+브루셀 그리폰 [Brussels Griffon],h,l,f,io,m
+불도그 [Bulldog],h,m,f,io,l
+불 테리어 [Bull Terrier],m,m,h,o,h
+불 마스티프 [Bullmastiff],m,m,h,o,h
+부비에 데 플랑드르 [Bouvier Des Flandres],m,m,h,o,h
+복서 [Boxer],m,l,h,o,h
+보스턴 테리어 [Boston Terrier],m,h,f,i,m
+보르조이 [Borzoi],l,h,m,o,h
+보더 테리어 [Border Terrier],m,l,m,io,m
+보더 콜리 [Border Collie],h,h,h,o,h
+벨지안 쉽도그 터뷰렌 [Belgian Sheepdog Tervuren],m,h,h,o,h
+벨지안 쉽도그 말리노이즈 [Belgian Sheepdog Malinois],m,m,h,o,h
+벨지안 쉽도그 라케노이즈 [Belgian Sheepdog Laekenois],m,m,h,o,h
+벨지안 쉽도그 그로넨달 [Belgian Sheepdog Groenendael],m,h,h,o,h
+베들링턴 테리어 [Bedlington Terrier],m,l,h,io,h
+버니즈 마운틴 독 [Bernese Mountain Dog],h,m,m,o,m
+바셋 하운드 [Basset Hound],m,m,f,io,m
+바센지 [Basenji],l,m,h,io,h
+미니어처 핀셔 [Miniature Pinscher],l,m,h,i,m
+미니어처 푸들 [Miniature Poodle],h,l,m,i,m
+미니어처 슈나우저 [Miniature Schnauzer],m,l,h,io,m
+몰티즈 [Maltese],h,m,m,i,m
+맨체스터 테리어 [Manchester Terrier],m,m,m,o,m
+마스티프 [Mastiff],m,m,h,o,h
+롯트와일러 [Rottweiler],l,m,h,o,h
+로디지안 리즈백 [Rhodesian Ridgeback],m,m,f,o,h
+레이크랜드 테리어 [Lakeland Terrier],m,l,m,o,h
+래브라도 리트리버 [Labrador Retriever],h,m,m,o,h
+라사 압소 [Lhasa Apso],m,m,m,i,l
+도베르만 핀셔 [Dobermann Pinscher],m,m,h,o,h
+댄디 딘몬트 테리어 [Dandie Dinmont Terrier],m,m,m,io,m
+달마티안 [Dalmatian],l,m,m,o,h
+닥스훈트 [Dachshund],m,m,m,io,m
+뉴펀들랜드 [Newfoundland],h,m,f,o,h
+노르포크 테리어 [Norfolk Terrier],m,m,m,io,h
+노르위치 테리어 [Norwich Terrier],m,l,m,io,h
+노르웨이언 엘크하운드 [Norwegian Elkhound],m,m,h,o,h
+기슈 이누 [Kishu Inu],l,m,h,o,h
+그레이트 피레니즈 [Great Pyrenees],m,h,m,o,h
+그레이트 데인 [Great Dane],m,m,h,o,h
+그레이 하운드 [Grey Hound],m,m,m,o,h
+골든 리트리버 [Golden Retriever],h,h,f,o,h
+휘펫 [Whippet],h,m,f,io,h
+핏불 테리어 [America Pit Bull Terrier],h,m,m,io,h
+필드 스파니엘 [Field Spaniel],m,m,f,o,m
+플랫 코티드 리트리버 [Flat Coated Retriever],h,h,m,o,h

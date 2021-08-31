@@ -1,0 +1,184 @@
+.best_dog_list{
+	padding:0 30px;
+	overflow:hidden;
+	text-align: center;
+	}
+.best_dog_list li{
+	display:inline-block;
+	width:32%;
+	margin-left: 20%;
+	box-sizing:border-box;
+	overflow:hidden;
+	cursor:pointer;
+	}
+.best_dog_list li:first-child{
+	margin-left:0;
+	}
+.best_dog_list li .d_thumb{
+	display:inline-block;
+	width:180px;
+	height:180px;
+	border:8px solid #b93f20;
+	border-radius:99em;
+	}
+.best_dog_list li .d_thumb img{
+	border-radius:99em;
+	}
+.best_dog_list li span{
+	display:block;
+	font-size:40px;
+	color:#0c0c0e;
+	font-weight:bold;
+	}
+.best_dog_list li span.point{
+	margin-top:5px;
+	}
+.best_dog_list li span.point span{
+	display:inline-block;
+	font-size:35px;
+	font-weight:normal;
+	}
+.best_dog_list li span.name{
+	margin-top:10px;
+	font-size:26px;
+	}
+.best_dog_list li span.thumb_detail{
+	width:150px;
+	margin:0 auto 10px;
+	padding:5px 0;
+	border-radius:10px;
+	font-size:16px;
+	margin-bottom:10px;
+	color:#fff;
+	background:#ca3f2c;
+	}
+body{
+    background:rgb(201, 202, 204);
+     background-image: url(../img/back_ground1.png);  
+} 
+
+.main{
+    margin:auto;
+    border: 3px solid rgb(36, 36, 37);
+    background:rgb(224, 221, 217);
+    width:700px;
+}
+img{
+    height:140px;
+    width:140px;
+    border:none;
+    cursor:pointer;
+}
+
+h1{
+    text-align: center;
+	color:whitesmoke;
+    background:rgb(65, 61, 60);
+    border-radius: 10px;
+    width:35%;
+    margin:auto;
+    margin-bottom: 3%;
+    margin-top:3%;
+    font-family:'Jalnan';
+    padding : 10px 0 ;
+    
+	   
+}
+
+.best_dog_list{
+	padding:0 30px;
+	overflow:hidden;
+	text-align: center;
+}
+.best_dog_list li{
+	display:inline-block;
+	width:32%;
+	text-align:center;
+	box-sizing:border-box;
+	overflow:hidden;
+	cursor:pointer;
+	}
+.best_dog_list li:first-child{
+	margin-left:0;
+	}
+.best_dog_list li .d_thumb{
+	display:inline-block;
+	width:140px;
+	height:140px;
+	border:8px solid #b93f20;
+	border-radius:99em;
+	}
+.best_dog_list li .d_thumb img{
+	border-radius:99em;
+	}
+.best_dog_list li span{
+	display:block;
+	font-size:40px;
+	color:#0c0c0e;
+	font-weight:bold;
+	}
+.best_dog_list li span.point{
+	margin-top:5px;
+	}
+.best_dog_list li span.point span{
+	display:inline-block;
+	font-size:35px;
+	font-weight:normal;
+	}
+.best_dog_list li span.name{
+	margin-top:10px;
+	font-size:26px;
+	}
+.best_dog_list li span.thumb_detail{
+	width:150px;
+	margin:0 auto 10px;
+	padding:5px 0;
+	border-radius:10px;
+	font-size:16px;
+	margin-bottom:10px;
+	color:#fff;
+	background:#ca3f2c;
+	}
+body{
+    background:#f4f4f4;
+    background-image: url("../img/dog4.png"); 
+} 
+div{
+    margin:auto;
+    margin: auto;
+    border: 3px solid rgb(36, 36, 37);
+    background:rgb(224, 221, 217);
+    width:700px;
+} 
+.footer{
+	text-align:center;
+	border-top:0px;
+	height:80px;
+}
+.footer a{
+	text-decoration:none;
+	color:white;
+}
+.result_restart{
+	font-family:'Jalnan';
+	width: 150px;
+    height: 40px;
+    background:rgb(65,61,60);
+    color:white;
+	border-radius:10px;
+	display : inline-block;
+	padding-top:5px;
+	cursor:pointer;
+}
+.result_restart:hover{
+	color:#EF6480;
+	background:rgb(65,61,60);
+}
+h2{
+	margin:auto;
+}
+
+span img{
+	width:140px;
+	height:140px;
+}

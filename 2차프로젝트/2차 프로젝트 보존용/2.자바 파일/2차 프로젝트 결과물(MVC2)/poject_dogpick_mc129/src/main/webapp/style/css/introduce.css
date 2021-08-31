@@ -1,0 +1,26 @@
+@charset "EUC-KR";
+#wrapper{
+	width:48em;
+	text-align:center;
+	background: #dfe4e2
+}
+img{
+	width: 700px;
+}
+div p{
+	margin: 80px 0 ;
+}
+#wrapper h1{
+	font-family: 'Jalnan';
+	margin-bottom: 45px;
+}
+p{
+	font-size:21px;
+}
+.title_service{
+	background: #444;	
+}
+div h1{
+	color:#ffffff;
+	font-size: 35px;
+}

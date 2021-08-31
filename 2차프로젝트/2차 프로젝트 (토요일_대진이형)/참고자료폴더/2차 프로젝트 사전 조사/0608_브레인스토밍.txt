@@ -1,0 +1,41 @@
+#0608 브레인 스토밍
+
+[민규]
+1.
+[머신러닝의 30가지 활용 사례]
+https://brunch.co.kr/@itschloe1/23
+
+2.
+참조 : 인공지능_아마존사례.pdf
+
+[명수]
+면접,소개팅 감정분석을 활용한 대처
+https://www.hanium.or.kr/portal/gitlab/bestGitRepositoryList.do
+의견 : 처음 만났을때나 면접 소개팅등에서 감정분석과 이미지활용해서 효과적으로 대처하는 시스템
+
+[대원]
+공공데이터 활용 창업경진대회 
+https://www.startupidea.kr/award/
+의견 : 수상작들 안전이나 환경관련한 내용들이 많이 나온거같네요
+
+[대진]
+메뉴추천서비스
+https://www.hanium.or.kr/portal/gitlab/bestGitRepositoryList.do
+메뉴추천서비스 시연영상
+https://www.youtube.com/watch?v=Z6zVaAHcslg
+의견 : 점심메뉴 선택하기 어려울 때 유용하게 사용할 수 있는 메뉴추천서비스
+
+[송화]
+애플워치 위급상황 알림 서비스
+http://aspect.or.kr/?p=2288
+
+[희근]
+1.
+인터넷쇼핑몰 나이대와 성별에 따른 제품 추천
+https://www.hanium.or.kr/portal/gitlab/bestGitRepositoryList.do
+
+2.
+유동인구 기반 매장오픈지역 추천 서비스
+
+의견 : 지하철이나 버스 정류장 승하차 정보에 따른 유동인구와 매출을 머신러닝으로 학습시켜
+어디에 매장을 오픈하면 좋을지 추천하는 서비스
